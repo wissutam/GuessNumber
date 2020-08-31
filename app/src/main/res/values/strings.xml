@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="guess">Guess</string>
+    <string name="exit">exit</string>
+    <string name="hint">Enter Number</string>
+    <string name="title">Guess the Number</string>
+    <string name="exitmsg">Exit Guess Number</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="guess">ทาย</string>
+    <string name="exit">ปิด</string>
+    <string name="hint">กรอกตัวเลข</string>
+    <string name="title">ทายเลข</string>
+    <string name="exitmsg">ออกจาก Guess Number</string>
+</resources>
